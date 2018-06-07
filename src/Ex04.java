@@ -37,7 +37,7 @@ public class Ex04 {
         }
 
         System.out.println("");
-        System.out.println("Quantidade de nÃºmeros que restaram na ArrayList: " + numeros.size());
+        System.out.println("Quantidade de números que restaram na ArrayList: " + numeros.size());
 
     }
 

@@ -21,9 +21,9 @@ public class Ex05 {
                 || nomes.get(1) == outroNome 
                 || nomes.get(2) == outroNome 
                 || nomes.get(3) == outroNome) {
-            System.out.println("O n√∫mero est√° contido no ArrayList.");
+            System.out.println("O n˙mero est· contido no ArrayList.");
         } else {
-            System.out.println("O n√∫mero n√£o est√° contido no ArrayList.");
+            System.out.println("O n˙mero n„o est· contido no ArrayList.");
         }
     }
 
