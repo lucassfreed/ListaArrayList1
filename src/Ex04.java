@@ -30,7 +30,7 @@ public class Ex04 {
             System.out.println(numeros.get(i));
         }
         System.out.println("");
-        numeros.remove(4);
+        numeros.remove(3);
 
         for (int i = 0; i < numeros.size(); i++) {
             System.out.println(numeros.get(i));
